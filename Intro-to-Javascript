@@ -1,0 +1,17 @@
+A programming language is just a tool that allows us to write code and instruct a computer to do stuff.
+
+Javascript is a high level language so you don't have to micro-manage the computers memory. 
+
+Java is object oriented because it's based on the concept of objects for storing mosts kinds of data. 
+
+java is multi-paradigm being flexible and versetile structuring code.
+
+what role doe java play? HTML is used for the content; the text, imagaes, buttons, and all the content you see is written in html.
+
+The CSS is used for the presentation. styles, elements.
+
+Java is the real programming language. making things interacting and manipulate or load data from remote servers and build entire apps in the browers call web apps.
+
+CSS = Adjectives(p {color: red})  HTML = Nouns(<p></p> = paragrapgh)  JS = Verbs(p.hide();) 
+
+js allows you to make dynamic effects. 
