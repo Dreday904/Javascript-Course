@@ -1,0 +1,4 @@
+language = 'portuguese';
+const country = 'portuguese';
+const isIsland = flase;
+isIsland = true;
